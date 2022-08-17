@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="from_alok_text">-From Alok</string>
+    <string name="happy_birthday_text">Happy Birthday!!</string>
+    <string name="todo">TODO</string>
+    <string name="thanks_text">Thanks</string>
+</resources>

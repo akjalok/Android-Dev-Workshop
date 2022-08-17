@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ASJ-Session3</string>
+    <string name="page_1">Page 1</string>
+    <string name="tap_me">Tap me</string>
+    <string name="go_to_page_2">Go to Page 2</string>
+    <string name="page_2">Page 2</string>
+    <string name="open_instagram">Open Instagram</string>
+</resources>
